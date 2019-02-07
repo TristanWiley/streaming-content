@@ -1,0 +1,8 @@
+name: xkcd_demo
+version: 0.0.1
+author: Tristan Wiley <tristan@tristanwiley.com>
+description: A fun little demo command line project. Used to get xkcd comics from the command line.
+homepage: https://github.com/TristanWiley/streaming-content/tree/master/dart-learning
+dependencies:
+  http: ^0.12.0+1
+  args: ^1.5.1
